@@ -29,7 +29,6 @@
         </v-list-item-action>
       </v-list-item>
     </v-card>
-    {{todos[0].id}}
   </div>
 </template>
 
